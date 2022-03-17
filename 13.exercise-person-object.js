@@ -1,5 +1,5 @@
 /**
- * Practice name: Exercise Person Object
+ * Title: Exercise Person Object
  * Description: Create person object, with these following details
  * - name (string)
  * - age (number)

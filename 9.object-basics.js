@@ -1,5 +1,5 @@
 /**
- * Practice name: Basics of Objects
+ * Title: Basics of Objects
  */
 
 let name = 'Jaime';

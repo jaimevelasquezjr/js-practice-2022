@@ -1,5 +1,5 @@
 /**
- * Practice name: Basics of Javascript Array
+ * Title: Basics of Javascript Array
  */
 
 let friends = ['Kazi', 'Brad', 'Jonas', 'Franco'];

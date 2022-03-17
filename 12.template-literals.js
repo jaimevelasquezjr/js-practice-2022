@@ -1,5 +1,5 @@
 /**
- * Practice name: Template Literals
+ * Title: Template Literals
  */
 
 let name = 'Jaime';

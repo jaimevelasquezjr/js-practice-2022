@@ -1,5 +1,5 @@
 /**
- * Practice name: Functions
+ * Title: Functions
  */
 
 function showMyName(name) {

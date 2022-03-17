@@ -1,5 +1,5 @@
 /**
- * Practice name: Basics of Primitive Data Types (string, object, undefined, boolean)
+ * Title: Basics of Primitive Data Types (string, object, undefined, boolean)
  */
 
 let name = 'jaime';
