@@ -1,3 +1,7 @@
+/**
+ * Practice name: Basics of Primitive Data Types (string, object, undefined, boolean)
+ */
+
 let name = 'jaime';
 console.log(typeof name);
 
@@ -9,3 +13,6 @@ console.log(typeof isMaried);
 
 let colors;
 console.log(typeof colors);
+
+let isNull = null;
+console.log(typeof isNull);

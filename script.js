@@ -1,11 +1,12 @@
-let name = 'Jaime';
-let age = 28;
-let hobby = 'Studying and Watching Tutorials';
-
-let user = {
-  name: 'Jaime',
-  age: 40,
-  hobby: 'Studying and Watching Tutorials',
-};
-
-console.log(user);
+/**
+ * Practice name: Arithmetic Operators
+ * Description: Addition, subtraction, multiplication, exponentiation, division, modulus, increment and decrement
+ * Addition ( + )
+ * Subtraction ( - )
+ * Multiplication ( * )
+ * Exponentiation ( ** )
+ * Division ( / )
+ * Modulus ( % )
+ * Increment ( ++ )
+ * Decrement ( -- )
+ */
