@@ -1,17 +1,18 @@
 /**
- * Title: Comparison Operators
- * Description: < > >= <= == === != !==
+ * Title: Conditional Statement Switch Case
+ *
  */
 
-let price = 200;
+let color = 'black';
 
-console.log(price > 300);
-console.log(price >= 199);
-console.log(price < 199);
-console.log(price <= 200);
-console.log(price == 200);
-console.log(price === '200');
-console.log(price == '200');
-console.log(price !== '200');
-console.log(price !== 200);
-console.log(price != 200);
+switch (color) {
+  case 'black':
+    console.log('This is a black');
+    break;
+  case 'blue':
+    console.log('This is a blue');
+    break;
+  case 'green':
+    console.log('This is a green');
+    break;
+}
